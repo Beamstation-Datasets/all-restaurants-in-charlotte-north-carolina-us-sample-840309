@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Charlotte, North Carolina with a population of over 874k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Charlotte, North Carolina, US",
+  "export_job_id": "1908cad4-0883-464a-9d27-39282764eec6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 840309,
+  "location_name": "Charlotte",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-charlotte-north-carolina-us-sample-840309",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/840309/beamstation_840309_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 335,
+  "sample_sha256": "422c1e084fd196d55aba1a8455ce31f4d26601124d9ea5250dd92b7b7a3d7cd8",
+  "sample_size_bytes": 1209261,
+  "total_records": 3376,
+  "updated_at": "2026-04-07T10:57:03.690858+00:00"
+}
