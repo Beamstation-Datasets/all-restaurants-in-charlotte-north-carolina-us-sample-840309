@@ -9,9 +9,9 @@
 | Dataset ID | `840309` |
 | Location | Charlotte |
 | Category | Restaurants |
-| Full dataset size | 3,376 records |
-| Free sample size | 335 records (9.92%) |
-| Last export | 2026-04-07T10:57:03.690858+00:00 |
+| Full dataset size | 3,353 records |
+| Free sample size | 335 records (9.99%) |
+| Last export | 2026-04-14T10:57:19.741026+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-charlotte-north-carolina-us-sample-840309/releases/download/sample-latest/beamstation_840309_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
