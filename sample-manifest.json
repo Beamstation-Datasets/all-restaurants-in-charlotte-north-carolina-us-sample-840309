@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1908cad4-0883-464a-9d27-39282764eec6",
+  "export_job_id": "e47c3af9-a723-4796-9b81-c67870ae8142",
   "id_short": 840309,
-  "published_at": "2026-04-15T07:28:22Z",
+  "published_at": "2026-04-18T07:07:41Z",
   "repo_name": "all-restaurants-in-charlotte-north-carolina-us-sample-840309",
   "sample_asset_name": "beamstation_840309_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/840309/beamstation_840309_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 335,
   "sample_sha256": "422c1e084fd196d55aba1a8455ce31f4d26601124d9ea5250dd92b7b7a3d7cd8",
   "sample_size_bytes": 1209261,
-  "total_records": 3376
+  "total_records": 3353
 }
