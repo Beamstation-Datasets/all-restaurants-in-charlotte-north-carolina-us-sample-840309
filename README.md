@@ -1,6 +1,6 @@
 # All Restaurants in Charlotte, North Carolina, US
 
-> Free BeamStation sample export with 150 rows and masked direct-contact fields.
+> Free BeamStation sample export with 332 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `840309` |
 | Location | Charlotte |
 | Category | Restaurants |
-| Full dataset size | 1,506 records |
-| Free sample size | 150 records (9.96%) |
-| Last export | 2026-04-21T11:15:11.793569+00:00 |
+| Full dataset size | 3,329 records |
+| Free sample size | 332 records (9.97%) |
+| Last export | 2026-04-28T11:54:00.105888+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-charlotte-north-carolina-us-sample-840309/releases/download/sample-latest/beamstation_840309_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
